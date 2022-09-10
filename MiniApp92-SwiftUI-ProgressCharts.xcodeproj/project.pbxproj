@@ -11,6 +11,7 @@
 		87D00FB428CB0F8500D95A6E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87D00FB328CB0F8500D95A6E /* ContentView.swift */; };
 		87D00FB628CB0F8600D95A6E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 87D00FB528CB0F8600D95A6E /* Assets.xcassets */; };
 		87D00FB928CB0F8600D95A6E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 87D00FB828CB0F8600D95A6E /* Preview Assets.xcassets */; };
+		87D00FC228CB118500D95A6E /* PieProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87D00FC128CB118500D95A6E /* PieProgressView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		87D00FB328CB0F8500D95A6E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		87D00FB528CB0F8600D95A6E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		87D00FB828CB0F8600D95A6E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		87D00FC128CB118500D95A6E /* PieProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PieProgressView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				87D00FB328CB0F8500D95A6E /* ContentView.swift */,
 				87D00FB528CB0F8600D95A6E /* Assets.xcassets */,
 				87D00FB728CB0F8600D95A6E /* Preview Content */,
+				87D00FC128CB118500D95A6E /* PieProgressView.swift */,
 			);
 			path = "MiniApp92-SwiftUI-ProgressCharts";
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				87D00FC228CB118500D95A6E /* PieProgressView.swift in Sources */,
 				87D00FB428CB0F8500D95A6E /* ContentView.swift in Sources */,
 				87D00FB228CB0F8500D95A6E /* MiniApp92_SwiftUI_ProgressChartsApp.swift in Sources */,
 			);
